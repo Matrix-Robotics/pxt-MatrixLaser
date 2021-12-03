@@ -1,6 +1,6 @@
 {
     "name": "MatrixLaser",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "The extension for MATRIX Laser Sensor",
     "license": "MIT",
     "dependencies": {
