@@ -1,0 +1,21 @@
+{
+    "name": "MatrixLaser",
+    "version": "1.0.0",
+    "description": "The extension for MATRIX Laser Sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "MxLaser.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

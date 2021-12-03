@@ -1,0 +1,7 @@
+# MakeCode
+built
+pxt_modules
+node_modules
+.vscode
+package-lock.json
+projects
